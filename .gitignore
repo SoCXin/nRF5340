@@ -28,7 +28,7 @@ HACKING*
 *.hex
 *.bin
 *bak
-*.txt
+# *.txt
 *.lst
 *.sct
 *.elf
@@ -45,10 +45,10 @@ HACKING*
 *.xcf
 *_sc*
 *cm23*
-*cm33*
+# *cm33*
 *cm3*
-# *cm4*
-# *cm7*
+*cm4*
+*cm7*
 *cm1*
 *cm0*
 *.uvgu*
