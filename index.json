@@ -1,13 +1,13 @@
 {
     "type":"SoC",
     "name":"nRF5340",
-    "Freq":"64MHz",
+    "Freq":"128MHz",
     "Core":"Cortex-M4",
     "title": "nordicsemi nRF5340 SoC",
     "description":"nordicsemi Cortex-M4 SoC",
     "manufacturer": {
         "vendor":"nordicsemi",
-        "homepage":"https://www.nordicsemi.com/Products/Low-power-cellular-IoT/nRF5340"
+        "homepage":"https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF5340"
     },
     "repository": {
         "type": "git",
